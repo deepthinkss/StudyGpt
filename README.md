@@ -17,21 +17,21 @@ This project combines **AI-driven question solving** and **personalized study su
 - 🧠 **Doubt Solving** – Get instant explanations for tricky questions.  
 - 📚 **Practice Generation** – Fresh, AI-generated practice questions.  
 - ⏱ **Quick Explanations** – Clear, step-by-step breakdowns of concepts.  
-- 🎯 **Exam-Focused** – Tailored to JEE & NEET syllabus.  
+- 🎯 **Exam-Focused** – For JEE & NEET syllabus.  
 - 📊 **Prototype UI** – A simple, student-friendly interface.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend/Prototype**: Designed in Visily (Prototype 1)  
+- **Frontend/Prototype**: Designed in figma 
 - **AI Backend (Planned)**: GPT-based model integration  
-- **Platform**: Cross-platform (web/app in development)  
+- **Platform**: Cross-platform (web/app in development) or we will think .
 
 ---
 
 ## 🚀 Installation (For Future Development)
 Since this is currently a prototype, direct installation isn’t ready yet.  
-But once development kicks in:
+But once development kicks in or we get time form our gym we will make it , pakka!
 ```bash
 git clone https://github.com/your-username/jeeneetgpt.git
 cd jeeneetgpt
