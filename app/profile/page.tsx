@@ -33,8 +33,8 @@ import Link from "next/link"
 export default function ProfilePage() {
   const [isEditing, setIsEditing] = useState(false)
   const [userInfo, setUserInfo] = useState({
-    name: "Arjun Sharma",
-    email: "arjun.sharma@email.com",
+    name: "vedant Rokade",
+    email: "vedantrokade@gmail.com",
     target: "JEE Advanced 2025",
     joinDate: "January 2024",
   })
