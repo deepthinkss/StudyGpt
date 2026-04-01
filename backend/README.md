@@ -1,6 +1,6 @@
 # StudyGpt
 AI-powered assistant for JEE &amp; NEET prep — solves doubts, generates practice questions, and helps students study smarter, not harder.
-# JeeneetGPT 🚀
+
 
 An **AI-powered study assistant** built to help students preparing for **JEE** and **NEET**.  
 Think of it as your 24/7 study buddy — solving doubts, generating practice questions, and breaking down tough concepts so you can focus on what really matters: **acing the exam**. 🎯
