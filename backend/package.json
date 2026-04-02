@@ -1,0 +1,29 @@
+{
+  "name": "gurukul-ai",
+  "version": "1.0.0",
+  "description": "AI-powered assistant for JEE prep",
+  "license": "ISC",
+  "author": "Vedant Rokade",
+  "type": "module",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js",
+    "dev": "nodemon Server.js",
+    "migrate": "node-pg-migrate -m ../migrations"
+  },
+  "dependencies": {
+    "@langchain/community": "^1.1.27",
+    "@langchain/groq": "^1.1.5",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "ioredis": "^5.10.1",
+    "jsonwebtoken": "^9.0.3",
+    "langchain": "^1.2.39",
+    "pg": "^8.20.0"
+  },
+  "devDependencies": {
+    "node-pg-migrate": "^8.0.4"
+  }
+}
